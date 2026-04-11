@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Brandcleeks | Digital Marketing Agency",
+  title: "Brandcleeks | Best Digital Marketing Agency in Mumbai, India",
   description: "We Build Brands That Stand Out. Digital marketing growth for your business.",
 };
 
